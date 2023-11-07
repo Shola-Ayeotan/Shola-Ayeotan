@@ -1,10 +1,10 @@
-- 👋 Hi there, I’m @Shola-Ayeotan.
+- 👋 Hi there, I’m Shola Ayeotan.
 
 - 👀 I'm a budding data scientist, fervently exploring data, numbers, and the stories behind them. 
 
 - 🌱  I’m currently improving my technical skills, and getting better by the day.
 
-- 💞️ I’m eager to collaborate on data-driven projects of any size, use case, or intriguing innovation.
+- 💞️ I’m eager to collaborate on data-driven projects of any size, use case, or innovation.
 
 - 📫 You can reach me at ayeotanofficial@yahoo.com. I'm always up for a conversation, whether it's about data, projects, or just to say hi!
 
