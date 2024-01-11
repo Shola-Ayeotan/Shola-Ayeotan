@@ -1,8 +1,8 @@
 - 👋 Hi there, I’m Shola Ayeotan.
 
-- 👀 I'm a budding data scientist, fervently exploring data, numbers, and the stories behind them. 
+- 👀 I'm a budding data scientist, adept at exploring data, numbers, and the stories behind them. 
 
-- 🌱  I’m currently improving my technical skills, and getting better by the day.
+- 🌱  I’m still improving my core technical skills, and getting better by the day.
 
 - 💞️ I’m eager to collaborate on data-driven projects of any size, use case, or innovation.
 
