@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m Shola Ayeotan.
 
-- 👀 I'm a budding data scientist, adept at exploring data, numbers, and the stories behind them. 
+- 👀 I'm a data enthusiast, adept at exploring data, numbers, and the stories behind them. 
 
 - 🌱  I’m still improving my core technical skills, and getting better by the day.
 
