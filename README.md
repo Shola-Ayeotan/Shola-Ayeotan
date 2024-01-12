@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m Shola Ayeotan.
+- 👋 Hi there, I’m Oluwanishola Ayeotan.
 
 - 👀 I'm a data enthusiast, adept at exploring data, numbers, and the stories behind them. 
 
