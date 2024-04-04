@@ -11,7 +11,7 @@
 # ![Profile Views](https://komarev.com/ghpvc/?username=Shola-Ayeotan)
 
 ## Connect with me:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=your-linkedin-url)]([your-linkedin-url](https://www.linkedin.com/in/oluwanishola/))
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oluwanishola/)](https://www.linkedin.com/in/oluwanishola/)
 [![Twitter Badge](https://img.shields.io/twitter/follow/theoluwanishola?style=social)](https://twitter.com/theoluwanishola)
 
 ## Languages and Tools:
