@@ -14,6 +14,12 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
+![Seaborn](https://img.shields.io/badge/-Seaborn-black?style=flat-square&logo=seaborn)
+![Scikit_learn](https://img.shields.io/badge/-Scikit--learn-black?style=flat-square&logo=scikit-learn)
+![Polars](https://img.shields.io/badge/-Polars-black?style=flat-square&logo=polars)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
+![PowerBI](https://img.shields.io/badge/-Power%20BI-black?style=flat-square&logo=powerbi)
+![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau)
 
 ## My GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shola-Ayeotan&show_icons=true)
