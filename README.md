@@ -8,7 +8,7 @@
 -  🤝 If you have a project in mind, by all means, please let's connect and create something awesome together!
 
 
-# ![Profile Views](https://komarev.com/ghpvc/?username=Shola-Ayeotan)
+# ![Profile Views - Today](https://komarev.com/ghpvc/?username=Shola-Ayeotan)
 
 ## Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oluwanishola/)](https://www.linkedin.com/in/oluwanishola/)
