@@ -26,6 +26,9 @@
 ## My GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shola-Ayeotan&show_icons=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shola-Ayeota)
+
+
 
 <!---
 Shola-Ayeotan/Shola-Ayeotan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
