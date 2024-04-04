@@ -1,14 +1,23 @@
-- 👋 Hi there, I’m Oluwanishola Ayeotan.
+# Hi there, I'm [Oluwanishola Ayeotan] 👋
 
+## About Me
 - 👀 I'm a data enthusiast, adept at exploring data, numbers, and the stories behind them. 
+-  🌱  I’m still improving my core technical skills, and getting better with each project I take on.
+- 💞️ Eager to collaborate on data-driven projects of any size, use case, or innovation.
+-  📫 You can reach me anytime at ayeotanofficial@yahoo.com. I'm always up for a conversation, whether it's about data, projects, or just to say hi!
+-  - 🤝 If you have a project in mind, by all means, please let's connect and create something awesome together!
 
-- 🌱  I’m still improving my core technical skills, and getting better by the day.
+## Connect with me:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=your-linkedin-url)]([your-linkedin-url](https://www.linkedin.com/in/oluwanishola/))
 
-- 💞️ I’m eager to collaborate on data-driven projects of any size, use case, or innovation.
+## Languages and Tools:
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
 
-- 📫 You can reach me anytime at [redacted]. I'm always up for a conversation, whether it's about data, projects, or just to say hi!
+## My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
-- 🤝 If you have a project in mind, by all means, please let's connect and create something awesome together!
 
 <!---
 Shola-Ayeotan/Shola-Ayeotan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
