@@ -8,10 +8,11 @@
 -  🤝 If you have a project in mind, by all means, please let's connect and create something awesome together!
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shola-Ayeotan)
+# ![Profile Views](https://komarev.com/ghpvc/?username=Shola-Ayeotan)
 
 ## Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=your-linkedin-url)]([your-linkedin-url](https://www.linkedin.com/in/oluwanishola/))
+[![Twitter Badge](https://img.shields.io/twitter/follow/yourtwitterusername?style=social)](https://twitter.com/theoluwanishola)
 
 ## Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
