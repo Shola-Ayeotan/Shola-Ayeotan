@@ -1,4 +1,4 @@
-# Hi there, I'm Oluwanishola Ayeotan 👋
+# Hi there, I'm Oluwanishola Ayeotan 😎
 
 ## About Me
 - 👀 I'm a data enthusiast, passion about exploring data, numbers, and the stories behind them. 
