@@ -24,11 +24,13 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau)
 
 ## My GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shola-Ayeotan&layout=compact)
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shola-Ayeotan&show_icons=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shola-Ayeotan)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shola-Ayeotan&layout=compact)
 
 
 <!---
