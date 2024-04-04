@@ -16,7 +16,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
 
 ## My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shola-Ayeotan&show_icons=true)
 
 
 <!---
