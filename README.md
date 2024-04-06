@@ -10,7 +10,6 @@
 
 ## Connect with me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oluwanishola/)](https://www.linkedin.com/in/oluwanishola/)
-[![Twitter Badge](https://img.shields.io/twitter/follow/theoluwanishola?style=social)](https://twitter.com/theoluwanishola)
 
 ## Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
