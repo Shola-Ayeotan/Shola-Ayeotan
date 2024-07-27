@@ -1,11 +1,11 @@
 # Hi there, I'm Oluwanishola Ayeotan 😎
 
 ## About Me
-- 👀 I'm a data enthusiast, passionate about exploring data, numbers, and the stories behind them. 
--  🌱  I’m always improving my core technical skills, and getting better with each project I take on.
-- 💞️ Eager to collaborate on data-driven projects of any size, use case, or innovation.
--  📫 You can reach me anytime at ayeotanofficial@yahoo.com. I'm always up for a conversation, whether it's about data, projects, or just to say hi!
+- 👀 I'm a data enthusiast, passionate about exploring data and the stories behind them. 
+-  🌱  I’m always improving my core skills and getting better with each project I take on.
+- 💞️ Eager to collaborate on data projects of any size, use case, or innovation.
 -  🤝 If you have a project in mind, by all means, please let's connect and create something awesome together!
+-  📫 You can reach me anytime at ayeotanofficial@yahoo.com. I'm always up for a conversation.
 
 
 ## Connect with me:
