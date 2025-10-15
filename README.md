@@ -1,7 +1,7 @@
 # Hi there, I'm Shola Ayeotan 😎
 
 ## About Me
-- 👀 I'm a Data Scientist and AI Engineer, passionate about building and turning data into intelligent systems/products that make a difference.
+- 👀 I'm a Data Scientist/AI Engineer, passionate about building and transforming data into intelligent systems that actually make a difference.
 - 💞️ Eager to collaborate on data projects of any size, use case, or innovation.
 -  🤝 If you have a project in mind, by all means, please let's connect and create something awesome together!
 -  📫 You can reach me anytime at ayeotanofficial@yahoo.com. I'm always up for a conversation.
