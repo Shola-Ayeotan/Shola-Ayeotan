@@ -1,4 +1,4 @@
-# Hi there, I'm Shola Ayeotan 😎
+# Hi there, I'm Oluwanishola (Shola) Ayeotan 😎
 
 ## About Me
 - 👀 I'm a Data Scientist/AI Engineer, passionate about building stuff and transforming data into intelligent products/systems that actually make a difference.
